@@ -5,6 +5,8 @@
  */
 package boletin1_4;
 
+import java.util.Scanner;
+
 /**
  *
  * @author jalvarezotero
