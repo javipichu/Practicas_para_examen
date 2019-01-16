@@ -18,7 +18,9 @@ public class Boletin1_1 {
         int base=4, altura=3,area;
         area=(base*altura)/2;
         System.out.println("area="+area);
-        System.out.println("hola que hase");
+        System.out.println("esta bien,aprobado");
+        
+        
     }
     
 }
